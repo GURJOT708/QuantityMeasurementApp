@@ -1,6 +1,6 @@
 package com.quantity.measurement.dto;
 
-import com.quantity.measurement.enumslmpl.WeightUnit;
+import com.quantity.measurement.enumsImpl.WeightUnit;
 
 public class QuantityDTO {
 
